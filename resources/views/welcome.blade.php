@@ -120,7 +120,7 @@ footer span{font-size:.64rem;letter-spacing:.14em;text-transform:uppercase}
 
   <div class="halftone"></div>
 
-  <h1>[<span class="judul-1">CIVIE</span><br><span class="judul-2">CLASS</span>]<small>...—“Self-reverence, self-knowledge, and self-control lead to sovereign power.”</small></h1>
+  <h1>[<span class="judul-1">CIVIE</span><br><span class="judul-2">CLASS</span>]<small>—“Self-reverence, self-knowledge, and self-control lead to sovereign power.”</small></h1>
   <a class="btn" href="#tentang">Start ↓</a>
 
   <div class="row">
