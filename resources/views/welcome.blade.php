@@ -99,6 +99,13 @@ body::after{
 .credits p{font-size:.85rem}
 footer{display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px}
 footer span{font-size:.64rem;letter-spacing:.14em;text-transform:uppercase}
+.judul-1, .judul-2{
+  -webkit-text-stroke:.09em #762D3B;
+  paint-order:stroke fill;
+  text-shadow:0 .06em 0 #4e1d28;
+}
+.judul-1{ color:#D5C6AC; }
+.judul-2{ color:#DDAF32; }
 </style>
 </head>
 <body>
@@ -113,7 +120,7 @@ footer span{font-size:.64rem;letter-spacing:.14em;text-transform:uppercase}
 
   <div class="halftone"></div>
 
-  <h1>[CIVIE<br>CLASS]<small>—“Self-reverence, self-knowledge, and self-control lead to sovereign power.”</small></h1>
+  <h1>[<span class="judul-1">CIVIE</span><br><span class="judul-2">CLASS</span>]<small>...—“Self-reverence, self-knowledge, and self-control lead to sovereign power.”</small></h1>
   <a class="btn" href="#tentang">Start ↓</a>
 
   <div class="row">
