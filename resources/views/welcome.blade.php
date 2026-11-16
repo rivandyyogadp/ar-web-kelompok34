@@ -113,7 +113,7 @@ footer span{font-size:.64rem;letter-spacing:.14em;text-transform:uppercase}
 
   <div class="halftone"></div>
 
-  <h1>[Civie<br>Class🃏]<small>—“Self-reverence, self-knowledge, and self-control lead to sovereign power.”</small></h1>
+  <h1>[CIVIE<br>CLASS]<small>—“Self-reverence, self-knowledge, and self-control lead to sovereign power.”</small></h1>
   <a class="btn" href="#tentang">Start ↓</a>
 
   <div class="row">
@@ -149,15 +149,15 @@ footer span{font-size:.64rem;letter-spacing:.14em;text-transform:uppercase}
     <!-- Nanti bagian kartu ini diganti perulangan dari database (tabel items) -->
     <figure class="frame">
       <div class="photo"><div class="ph-text">[ Photo 1 ]</div></div>
-      <figcaption>Judul Karya 1<small>Nama pembuat</small></figcaption>
+      <figcaption>Title<small>lorem ipsum</small></figcaption>
     </figure>
     <figure class="frame">
       <div class="photo"><div class="ph-text">[ Photo 2 ]</div></div>
-      <figcaption>Judul Karya 2<small>Nama pembuat</small></figcaption>
+      <figcaption>Title<small>lorem ipsum</small></figcaption>
     </figure>
     <figure class="frame">
       <div class="photo"><div class="ph-text">[ Photo 3 ]</div></div>
-      <figcaption>Judul Karya 3<small>Nama pembuat</small></figcaption>
+      <figcaption>Title<small>lorem ipsum</small></figcaption>
     </figure>
   </div>
 </section>
