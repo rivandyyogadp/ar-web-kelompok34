@@ -48,7 +48,7 @@ body::after{
 }
 .hero h1 small{display:block;font-family:var(--mono);font-size:clamp(.7rem,1.4vw,1rem);letter-spacing:.3em;margin-top:18px;color:var(--ink);font-weight:400}
 .hero .btn{
-  position:absolute;left:50%;bottom:84px;transform:translateX(-50%);z-index:5;
+  position:absolute;left:50%;bottom:64px;transform:translateX(-50%);z-index:5;
   padding:12px 26px;border:1.5px solid var(--ink);color:var(--ink);text-decoration:none;font-size:.75rem;letter-spacing:.2em;text-transform:uppercase;
   background:var(--paper);
 }
@@ -140,7 +140,7 @@ footer span{font-size:.64rem;letter-spacing:.14em;text-transform:uppercase}
 
 <!-- ============ 3. GALERI ============ -->
 <section class="slide gallery" id="galeri">
-  <span class="tiny">Dokumentasi</span>
+  <span class="tiny">Documentation</span>
   <h2>Galeri <em>Project</em></h2>
   <p class="sub">Footage &amp; visual archive</p>
   <div class="orn">❦ ❦ ❦</div>
